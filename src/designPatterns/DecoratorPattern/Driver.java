@@ -7,5 +7,9 @@ public class Driver {
 
         triangle.draw();  //prints triangle is drawn
         redRectangle.draw(); // triangle is drawn //red color has been added.
+
+
+        ShapeInterface blueSquare = new BlueColorDecorator(new Square());
+        blueSquare.draw();
     }
 }
