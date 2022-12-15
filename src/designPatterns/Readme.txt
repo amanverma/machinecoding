@@ -27,7 +27,7 @@ move towards solving real life design questions/ CASE STUDIES
 1. Design a movie ticket booking system (bookmyshow, etc.)
 2. Design Chess Game
 3. FLIPKART( design e-commerce application)
-4. Parking Lot (automated solution for parking lot)
+4. Parking Lot (automated ds_algo.problems.solution for parking lot)
 5. Black Jack (most popular card game in casinos)
 6. Design a live cricket commentary application
 

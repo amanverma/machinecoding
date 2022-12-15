@@ -6,7 +6,7 @@ In the Factory and Abstract Factory Design Patterns, we encounter the following 
 2. There might be some optional attributes of the object and yet we would be forced to send all parameters and optional attributes as Null.
 3. When the object creation becomes complex due to heavy attributes, the complexity of this class would become confusing.
 
-The above problems can also be solved by using constructors of required parameters alone. But this causes an issue when there would be new parameters that are added as part of new requirements. This would result in inconsistency. That’s where Builder comes into the picture. This pattern solves the issue of a large number of optional attributes and the inconsistent state by providing means to build an object in a step-by-step way and return the final object utilizing another method.
+The above ds_algo.problems can also be solved by using constructors of required parameters alone. But this causes an issue when there would be new parameters that are added as part of new requirements. This would result in inconsistency. That’s where Builder comes into the picture. This pattern solves the issue of a large number of optional attributes and the inconsistent state by providing means to build an object in a step-by-step way and return the final object utilizing another method.
 
 Builder Pattern can be implemented in following Steps
 
